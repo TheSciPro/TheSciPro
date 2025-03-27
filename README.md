@@ -1,9 +1,31 @@
 <h1 align="center">Hi 👋, I'm Antara Raman Sahay</h1>
-<h3 align="center">A keen machine learning enthusiast and the world of LLM fascinates me</h3>
+<h3 align="center">ML enthusiast | LLM explorer | AI tinkerer 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thescipro" alt="thescipro" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thescipro" alt="thescipro" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **LLMs, RAG, Docker, kubernetes**
+💡 **Loves building, breaking, and exploring the endless possibilities of AI/ML.**  
+📖 **Always up for reading cutting-edge AI research and experimenting with new ideas.**  
+
+### 🔥 Currently Diving Into:
+- **AI Agents**, **Multi-Agent Collaboration Protocols (MCP)**  
+- **Model Optimization & System Optimization**  
+- **Efficient LLM Fine-Tuning & Scalable Deployments**  
+
+### 🚀 What I’m Skilled At:
+- **SLMs, LLMs, RAG, Fine-Tuning**  
+- **Python, ML, Deep Learning, NLP**  
+- **GCP Certified**   
+
+### 💡 What I Know:
+- **Frontend:** HTML, CSS, JavaScript, Angular  
+- **DevOps:** Bash, Docker, Jenkins, Ansible, Kubernetes  
+
+🧙‍♂️ **Got an exciting AI idea? Let’s connect and bring it to life!**  
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheSciPro](https://github.com/TheSciPro)
 
